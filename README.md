@@ -1,1 +1,1 @@
-# Buenas-Pr-cticas---JavaScript
+# Buenas-Practicas---JavaScript
